@@ -2,3 +2,4 @@
 
 Dataset: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 I can achieve higher test score but the best predicting percentage was at this model.
+GTSRB - Random Selected Images is the latest version and final.
